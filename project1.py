@@ -23,3 +23,5 @@ def main ():
     print('Ответ:', answer)
 
 main()
+
+print('ads')
